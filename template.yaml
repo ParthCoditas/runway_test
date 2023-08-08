@@ -5,4 +5,4 @@ Resources:
   MyS3Bucket:
     Type: 'AWS::S3::Bucket'
     Properties:
-      BucketName: prathamesh87882819044
+      BucketName: prathamesh878828190444
